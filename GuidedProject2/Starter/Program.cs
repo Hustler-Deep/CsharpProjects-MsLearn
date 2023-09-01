@@ -8,7 +8,7 @@ string animalNickname = "";
 
 // variables that support data entry
 int maxPets = 8;
-string? readResult;
+string? readResult; 
 string menuSelection = "";
 
 // array used to store runtime data, there is no persisted data

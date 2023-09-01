@@ -1,0 +1,14 @@
+F:\MsLearn\CsharpProjects\GuidedProject2\Final\bin\Debug\net7.0\Final.exe
+F:\MsLearn\CsharpProjects\GuidedProject2\Final\bin\Debug\net7.0\Final.deps.json
+F:\MsLearn\CsharpProjects\GuidedProject2\Final\bin\Debug\net7.0\Final.runtimeconfig.json
+F:\MsLearn\CsharpProjects\GuidedProject2\Final\bin\Debug\net7.0\Final.dll
+F:\MsLearn\CsharpProjects\GuidedProject2\Final\bin\Debug\net7.0\Final.pdb
+F:\MsLearn\CsharpProjects\GuidedProject2\Final\obj\Debug\net7.0\Final.GeneratedMSBuildEditorConfig.editorconfig
+F:\MsLearn\CsharpProjects\GuidedProject2\Final\obj\Debug\net7.0\Final.AssemblyInfoInputs.cache
+F:\MsLearn\CsharpProjects\GuidedProject2\Final\obj\Debug\net7.0\Final.AssemblyInfo.cs
+F:\MsLearn\CsharpProjects\GuidedProject2\Final\obj\Debug\net7.0\Final.csproj.CoreCompileInputs.cache
+F:\MsLearn\CsharpProjects\GuidedProject2\Final\obj\Debug\net7.0\Final.dll
+F:\MsLearn\CsharpProjects\GuidedProject2\Final\obj\Debug\net7.0\refint\Final.dll
+F:\MsLearn\CsharpProjects\GuidedProject2\Final\obj\Debug\net7.0\Final.pdb
+F:\MsLearn\CsharpProjects\GuidedProject2\Final\obj\Debug\net7.0\Final.genruntimeconfig.cache
+F:\MsLearn\CsharpProjects\GuidedProject2\Final\obj\Debug\net7.0\ref\Final.dll
