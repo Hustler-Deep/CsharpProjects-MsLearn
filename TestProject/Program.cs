@@ -1,4 +1,4 @@
-﻿/*
+```bash
 int hero = 10, monster = 10;
 
 Random dice = new Random();
@@ -15,7 +15,7 @@ do {
 } while (hero > 0 && monster > 0);
 
 Console.WriteLine(hero > monster ? "Hero wins!" : "Monster wins!");
-*/
+```
 
 /*
 // Code Project-1 - Write Code That validates integer input
