@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\MsLearn\\CsharpProjects\\TestProject\\TestProject.csproj": {}
+    "F:\\MsLearn\\CsharpProjects\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "f:\\MsLearn\\CsharpProjects\\TestProject\\TestProject.csproj": {
+    "F:\\MsLearn\\CsharpProjects\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\MsLearn\\CsharpProjects\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "F:\\MsLearn\\CsharpProjects\\TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "f:\\MsLearn\\CsharpProjects\\TestProject\\TestProject.csproj",
+        "projectPath": "F:\\MsLearn\\CsharpProjects\\TestProject\\TestProject.csproj",
         "packagesPath": "C:\\Users\\deepp\\.nuget\\packages\\",
-        "outputPath": "f:\\MsLearn\\CsharpProjects\\TestProject\\obj\\",
+        "outputPath": "F:\\MsLearn\\CsharpProjects\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
