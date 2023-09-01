@@ -1,4 +1,4 @@
-﻿/*
+/*
 int hero = 10, monster = 10;
 
 Random dice = new Random();
