@@ -1,0 +1,14 @@
+f:\MsLearn\CsharpProjects\ChallengeProject2\Starter\bin\Debug\net7.0\Starter.exe
+f:\MsLearn\CsharpProjects\ChallengeProject2\Starter\bin\Debug\net7.0\Starter.deps.json
+f:\MsLearn\CsharpProjects\ChallengeProject2\Starter\bin\Debug\net7.0\Starter.runtimeconfig.json
+f:\MsLearn\CsharpProjects\ChallengeProject2\Starter\bin\Debug\net7.0\Starter.dll
+f:\MsLearn\CsharpProjects\ChallengeProject2\Starter\bin\Debug\net7.0\Starter.pdb
+f:\MsLearn\CsharpProjects\ChallengeProject2\Starter\obj\Debug\net7.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+f:\MsLearn\CsharpProjects\ChallengeProject2\Starter\obj\Debug\net7.0\Starter.AssemblyInfoInputs.cache
+f:\MsLearn\CsharpProjects\ChallengeProject2\Starter\obj\Debug\net7.0\Starter.AssemblyInfo.cs
+f:\MsLearn\CsharpProjects\ChallengeProject2\Starter\obj\Debug\net7.0\Starter.csproj.CoreCompileInputs.cache
+f:\MsLearn\CsharpProjects\ChallengeProject2\Starter\obj\Debug\net7.0\Starter.dll
+f:\MsLearn\CsharpProjects\ChallengeProject2\Starter\obj\Debug\net7.0\refint\Starter.dll
+f:\MsLearn\CsharpProjects\ChallengeProject2\Starter\obj\Debug\net7.0\Starter.pdb
+f:\MsLearn\CsharpProjects\ChallengeProject2\Starter\obj\Debug\net7.0\Starter.genruntimeconfig.cache
+f:\MsLearn\CsharpProjects\ChallengeProject2\Starter\obj\Debug\net7.0\ref\Starter.dll

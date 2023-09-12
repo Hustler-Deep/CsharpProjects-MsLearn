@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\MsLearn\\CsharpProjects\\TestProject\\TestProject.csproj": {}
+    "f:\\MsLearn\\CsharpProjects\\ChallengeProject2\\Final\\Final.csproj": {}
   },
   "projects": {
-    "F:\\MsLearn\\CsharpProjects\\TestProject\\TestProject.csproj": {
+    "f:\\MsLearn\\CsharpProjects\\ChallengeProject2\\Final\\Final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\MsLearn\\CsharpProjects\\TestProject\\TestProject.csproj",
-        "projectName": "TestProject",
-        "projectPath": "F:\\MsLearn\\CsharpProjects\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "f:\\MsLearn\\CsharpProjects\\ChallengeProject2\\Final\\Final.csproj",
+        "projectName": "Final",
+        "projectPath": "f:\\MsLearn\\CsharpProjects\\ChallengeProject2\\Final\\Final.csproj",
         "packagesPath": "C:\\Users\\deepp\\.nuget\\packages\\",
-        "outputPath": "F:\\MsLearn\\CsharpProjects\\TestProject\\obj\\",
+        "outputPath": "f:\\MsLearn\\CsharpProjects\\ChallengeProject2\\Final\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -357,28 +357,49 @@
 // message = message.Replace("-", "");
 // Console.WriteLine(message);
 
-const string input = "<div><h2>Widgets &trade;</h2><span>5000</span></div>";
+// const string input = "<div><h2>Widgets &trade;</h2><span>5000</span></div>";
 
-string quantity = "";
-string output = "";
+// string quantity = "";
+// string output = "";
 
-int quantityStart = input.IndexOf("<span>");
-int quantityEnd = input.IndexOf("</span>");
-quantityStart += "<span>".Length;
-int quantityLength = quantityEnd - quantityStart;
-quantity = input.Substring(quantityStart, quantityLength);
-quantity = $"Quantity: {quantity}";
+// int quantityStart = input.IndexOf("<span>");
+// int quantityEnd = input.IndexOf("</span>");
+// quantityStart += "<span>".Length;
+// int quantityLength = quantityEnd - quantityStart;
+// quantity = input.Substring(quantityStart, quantityLength);
+// quantity = $"Quantity: {quantity}";
 
-output = input.Replace("&trade;", "&reg;");
+// output = input.Replace("&trade;", "&reg;");
 
-int divStart = input.IndexOf("<div>");
-int divLength = "<div>".Length;
-output = output.Remove(divStart, divLength);
+// int divStart = input.IndexOf("<div>");
+// int divLength = "<div>".Length;
+// output = output.Remove(divStart, divLength);
 
-int divCloseStart = output.IndexOf("</div>");
-int divCloseLength = "</div>".Length;
-output = output.Remove(divCloseStart, divCloseLength);
-output = $"Output: {output}";
+// int divCloseStart = output.IndexOf("</div>");
+// int divCloseLength = "</div>".Length;
+// output = output.Remove(divCloseStart, divCloseLength);
+// output = $"Output: {output}";
 
-Console.WriteLine(quantity);
-Console.WriteLine(output);
+// Console.WriteLine(quantity);
+// Console.WriteLine(output);
+
+// Console.WriteLine("Signed integral types:");
+
+// Console.WriteLine($"sbyte  : {sbyte.MinValue} to {sbyte.MaxValue}");
+// Console.WriteLine($"short  : {short.MinValue} to {short.MaxValue}");
+// Console.WriteLine($"int    : {int.MinValue} to {int.MaxValue}");
+// Console.WriteLine($"long   : {long.MinValue} to {long.MaxValue}");
+// Console.WriteLine("");
+// Console.WriteLine("Unsigned integral types:");
+
+// Console.WriteLine($"byte   : {byte.MinValue} to {byte.MaxValue}");
+// Console.WriteLine($"ushort : {ushort.MinValue} to {ushort.MaxValue}");
+// Console.WriteLine($"uint   : {uint.MinValue} to {uint.MaxValue}");
+// Console.WriteLine($"ulong  : {ulong.MinValue} to {ulong.MaxValue}");
+
+// Console.WriteLine("");
+// Console.WriteLine("Floating point types:");
+// Console.WriteLine($"float  : {float.MinValue} to {float.MaxValue} (with ~6-9 digits of precision)");
+// Console.WriteLine($"double : {double.MinValue} to {double.MaxValue} (with ~15-17 digits of precision)");
+// Console.WriteLine($"decimal: {decimal.MinValue} to {decimal.MaxValue} (with 28-29 digits of precision)");
+
