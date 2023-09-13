@@ -78,9 +78,111 @@ Console.WriteLine(ReverseSentence(input));
 ```
 ## Return Booleans from methods
 ```c#
+string[] words = {"racecar" ,"talented", "deified", "tent", "tenet"};
 
+bool IsPalindrome(string word) {
+
+    int start = 0;
+    int end = word.Length - 1;
+    while(start < end) {
+        if(word[start] != word[end]) {
+            return false;
+        }
+        start++;
+        end--;
+    }
+
+    return true;
+}
+
+Console.WriteLine("Is it a palindrome?");
+foreach (string word in words) 
+{
+    Console.WriteLine($"{word}: {IsPalindrome(word)}");
+}
 ```
+## Return arrays from methods
+```c#
+int target = 30;
+int[] coins = new int[] {5, 5, 50, 25, 25, 10, 5};
 
+int[,] TwoCoins(int[] coins, int target) {
+    int[,] result = {{-1,-1},{-1,-1},{-1,-1},{-1,-1},{-1,-1}};
+    int count = 0;
+
+    for(int curr = 0; curr<coins.Length; curr++) {
+        for(int next = curr + 1; next <coins.Length; next++) {
+            if(coins[curr] + coins[next] == target) {
+                result[count, 0] = curr;
+                result[count, 1] = next;
+                count++;
+            }
+            if(count == result.GetLength(0)) {
+                return result;
+            }
+        }
+    }
+
+    return (count == 0) ? new int[0,0] : result;
+}
+
+int[,] result = TwoCoins(coins, target);
+if(result.Length == 0) {
+    Console.WriteLine("No two coins make change");
+} else {
+    Console.WriteLine("Change found at positions:");
+    for(int i = 0; i < result.GetLength(0); i++) {
+        if(result[i,0] == -1) break;
+        Console.WriteLine($"{result[i,0]},{result[i,1]}");
+    }
+}
+```
+## Challenge to add methods to make the game playable
+### Dice mini-game challenge
+```c#
+Random random = new Random();
+
+bool ShouldPlay() {
+    string response = Console.ReadLine();
+    return response.ToLower().Equals("y");
+}
+
+int GetTarget() {
+    return random.Next(1, 6);
+}
+
+int RollDice() {
+    return random.Next(1, 7);
+}
+
+string WinOrLose(int roll, int target) {
+    if(roll > target) {
+        return "You win!";
+    } 
+    return "You lose!";
+}
+
+void PlayGame() {
+    var play = true;
+
+    while (play) {
+        var target = GetTarget();
+        var roll = RollDice();
+
+        Console.WriteLine($"Roll a number greater than {target} to win!");
+        Console.WriteLine($"You rolled a {roll}");
+        Console.WriteLine(WinOrLose(roll, target));
+        Console.WriteLine("\nPlay again? (Y/N)");
+
+        play = ShouldPlay();
+    }
+}
+
+Console.WriteLine("Would you like to play? (Y/N)");
+if (ShouldPlay())  {
+    PlayGame();
+}
+```
 
 
 
