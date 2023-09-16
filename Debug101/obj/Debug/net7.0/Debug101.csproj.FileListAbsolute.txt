@@ -1,0 +1,14 @@
+F:\MsLearn\CsharpProjects\Debug101\bin\Debug\net7.0\Debug101.exe
+F:\MsLearn\CsharpProjects\Debug101\bin\Debug\net7.0\Debug101.deps.json
+F:\MsLearn\CsharpProjects\Debug101\bin\Debug\net7.0\Debug101.runtimeconfig.json
+F:\MsLearn\CsharpProjects\Debug101\bin\Debug\net7.0\Debug101.dll
+F:\MsLearn\CsharpProjects\Debug101\bin\Debug\net7.0\Debug101.pdb
+F:\MsLearn\CsharpProjects\Debug101\obj\Debug\net7.0\Debug101.GeneratedMSBuildEditorConfig.editorconfig
+F:\MsLearn\CsharpProjects\Debug101\obj\Debug\net7.0\Debug101.AssemblyInfoInputs.cache
+F:\MsLearn\CsharpProjects\Debug101\obj\Debug\net7.0\Debug101.AssemblyInfo.cs
+F:\MsLearn\CsharpProjects\Debug101\obj\Debug\net7.0\Debug101.csproj.CoreCompileInputs.cache
+F:\MsLearn\CsharpProjects\Debug101\obj\Debug\net7.0\Debug101.dll
+F:\MsLearn\CsharpProjects\Debug101\obj\Debug\net7.0\refint\Debug101.dll
+F:\MsLearn\CsharpProjects\Debug101\obj\Debug\net7.0\Debug101.pdb
+F:\MsLearn\CsharpProjects\Debug101\obj\Debug\net7.0\Debug101.genruntimeconfig.cache
+F:\MsLearn\CsharpProjects\Debug101\obj\Debug\net7.0\ref\Debug101.dll
